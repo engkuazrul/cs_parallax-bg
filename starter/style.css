@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #444;
+  font-family: sans-serif;
+  position: relative;
+}
+
+.container {
+  width: 1200px;
+  height: 300px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.hero {
+  background-color: #2a79b3;
+  color: #fff;
+}
